@@ -22,7 +22,13 @@ region: This is the region you are in according to our data
 </div>
 
 ## Welcome
-Include some information here about your chapter
+Welcome to OWASP Karachi Chapter. We would be sharing updates on the following channels. 
+
+- Facebook page [https://www.facebook.com/OWASPKarachi/](https://www.facebook.com/OWASPKarachi/)
+- Our chapter website [https://owaspkarachi.wordpress.com](https://owaspkarachi.wordpress.com)
+- Linked in updates having hashtag #OWASPKarachi [https://www.linkedin.com/feed/hashtag/OWASPKarachi/]([https://www.linkedin.com/feed/hashtag/OWASPKarachi/])
+
+
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -37,6 +43,8 @@ Please change these items to indicate the actual information you wish to present
 
 {front matter for this file}
 
+- title: OWASP Karachi Chapter
+- tags: OWASPKarachi OWASP Karachi InformationSecurity InfoSec AppSec Application Security
 ```
 - layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
 - title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
