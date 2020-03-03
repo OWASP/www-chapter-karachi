@@ -16,6 +16,14 @@ Call For Speakers is open. If you would like to present a talk on Application Se
 ## Sponsorship
 If you or your organization is interested in sponsoring or hosting a meeting, please contact one of the Chapter Leaders listed in the sidebar.
 
+## Meeting Schedule
+Meetings are organized via [Meetup](https://www.meetup.com/OWASP-Karachi-Chapter/)
+
+## Participation
+Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events]((https://www.meetup.com/OWASP-Karachi-Chapter/), [@OWASPKarachi](https://twitter.com/Owaspkarachi){:target='_blank'}, [FB@OWASPKarachi](https://www.facebook.com/OWASPKarachi/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. 
+
+We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. 
+
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
