@@ -4,6 +4,9 @@ layout: col-sidebar
 title: OWASP Karachi
 tags: Karachi Pakistan
 region: Asia
+meetup-group: OWASP-Karachi-Chapter
+country: Pakistan
+postal-code: 
 
 ---
 ## Your Local Chapter
