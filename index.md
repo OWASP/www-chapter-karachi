@@ -53,10 +53,13 @@ If you or your organization is interested in sponsoring or hosting a meeting, pl
 
 # Meetups 
 One could follow with our meetups here. 
- <!-- Kashif Bhai, this is one line to including all the meetups from our Meetup App updates. -->
  {% include chapter_events.html group=page.meetup-group %}
 
 ## Facebook Feed
+<a href="https://www.facebook.com/OWASPKarachi/" > Facebook Feed </a>
+</br>
+<a href="https://twitter.com/Owaspkarachi" > Twitter Feed </a>
+
 <iframe src="https://www.facebook.com/OWASPKarachi/" width="600" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ## Twitter Feed
