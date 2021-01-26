@@ -56,6 +56,14 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - Meeting Location
 - Everyone is welcome to join us at our chapter meetings.
 
+## Facebook Feed
+
+<iframe src="https://www.facebook.com/OWASPKarachi/" width="600" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+## Twitter Feed
+<iframe src="https://twitter.com/Owaspkarachi" width="600" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+
 ```
 {info.md}
 
