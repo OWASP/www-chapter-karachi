@@ -9,8 +9,9 @@ country: Pakistan
 postal-code: 
 
 ---
-## Your Local Chapter
-Hi Karachi, welcome to your local OWASP chapter. The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.  
+## Welcome to OWASP Karachi Chapter 
+Hellow Karachi !!!.
+The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.  
 Our mission is to enrich Karachi's application security community. 
 
 ## Call For Speakers
@@ -23,7 +24,13 @@ If you or your organization is interested in sponsoring or hosting a meeting, pl
 One could follow with our meetups here. 
  <!-- Kashif Bhai, this is one line to including all the meetups from our Meetup App updates. -->
  {% include chapter_events.html group=page.meetup-group %}
- 
+
+## Facebook Feed
+<iframe src="https://www.facebook.com/OWASPKarachi/" width="600" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+## Twitter Feed
+<iframe src="https://twitter.com/Owaspkarachi" width="600" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
 Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
@@ -55,13 +62,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 ## Local News
 - Meeting Location
 - Everyone is welcome to join us at our chapter meetings.
-
-## Facebook Feed
-
-<iframe src="https://www.facebook.com/OWASPKarachi/" width="600" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-## Twitter Feed
-<iframe src="https://twitter.com/Owaspkarachi" width="600" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 
 ```
