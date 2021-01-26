@@ -55,15 +55,10 @@ If you or your organization is interested in sponsoring or hosting a meeting, pl
 One could follow with our meetups here. 
  {% include chapter_events.html group=page.meetup-group %}
 
-## Facebook Feed
+## Facebook & Twitter Feed
 <a href="https://www.facebook.com/OWASPKarachi/" > Facebook Feed </a>
 </br>
 <a href="https://twitter.com/Owaspkarachi" > Twitter Feed </a>
-
-<iframe src="https://www.facebook.com/OWASPKarachi/" width="600" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-## Twitter Feed
-<iframe src="https://twitter.com/Owaspkarachi" width="600" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ```
 - layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
