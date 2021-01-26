@@ -19,7 +19,11 @@ Call For Speakers is open. If you would like to present a talk on Application Se
 ## Sponsorship
 If you or your organization is interested in sponsoring or hosting a meeting, please contact one of the Chapter Leaders listed in the sidebar.
 
-
+# Meetups 
+One could follow with our meetups here. 
+ <!-- Kashif Bhai, this is one line to including all the meetups from our Meetup App updates. -->
+ {% include chapter_events.html group=page.meetup-group %}
+ 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
 Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
