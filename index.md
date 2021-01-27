@@ -46,7 +46,9 @@ One could follow with our meetups here.
 <a href="https://www.meetup.com/OWASP-Karachi-Chapter/" target="_blank" >Meetup</a>
 <br/>
 <a href="https://t.me/OWASPKarachi" target="_blank" >Telegram</a>
-    
+<br/>
+<a href="https://www.youtube.com/channel/UCX7NegARhH603ov7fYao48Q" target="_blank" > YouTube </a>
+
 
 {info.md}
 
