@@ -1,10 +1,11 @@
 ### Social Links
-* [@OWASPKarachi - Facebook ](https://www.facebook.com/OWASPKarachi/)
-* [@OWASPKarachi - Linkedin ](https://linkedin.com/company/owaspkarachi)
-* [@OWASPKarachi - Twitter ](https://twitter.com/Owaspkarachi)
-* [Meetup](https://www.meetup.com/OWASP-Karachi-Chapter/)
-* [Telegram](https://t.me/OWASPKarachi/)
-* [Youtube](https://www.youtube.com/channel/UCX7NegARhH603ov7fYao48Q)
+* [Facebook.com/OWASPKarachi/](https://www.facebook.com/OWASPKarachi/)
+* [Linkedin.com/Company/OWASPKarachi/](https://linkedin.com/company/owaspkarachi)
+* [Twitter.com/OWASPKarachi](https://twitter.com/Owaspkarachi)
+* [t.me/OWASPKarachi](https://t.me/OWASPKarachi/)
+
+* [Meetup.com/OWASP-Karachi-Chapter](https://www.meetup.com/OWASP-Karachi-Chapter/)
+* [Youtube Channel](https://www.youtube.com/channel/UCX7NegARhH603ov7fYao48Q)
 
 ### OWASP Information
 * [Become a Member](https://www.owasp.org/index.php/Membership)
