@@ -13,3 +13,7 @@
 * [Code of Conduct](https://owasp.org/www-policy/operational/conferences-events.html)
 * Mailing List ... Coming Soon.
  
+
+### Twitter Feed
+
+<a class="twitter-timeline" data-width="100%" data-height="600" data-theme="light" href="https://twitter.com/OWASPKARACHI?ref_src=twsrc%5Etfw">Tweets by OWASP Karachi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
