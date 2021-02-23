@@ -38,5 +38,7 @@ One could follow with our meetups here.
 <a href="https://www.youtube.com/channel/UCX7NegARhH603ov7fYao48Q" target="_blank" > YouTube </a>
 
 ## Join OWASP 
-<iframe src="https://www.youtube.com/embed/T2tlcZsYtko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+If you want to join OWASP, have a look at this video.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T2tlcZsYtko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
