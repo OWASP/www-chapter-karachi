@@ -36,3 +36,6 @@ One could follow with our meetups here.
 <a href="https://t.me/OWASPKarachi" target="_blank" >Telegram</a>
 <br/>
 <a href="https://www.youtube.com/channel/UCX7NegARhH603ov7fYao48Q" target="_blank" > YouTube </a>
+
+## Join OWASP 
+https://www.youtube.com/watch?v=T2tlcZsYtko
