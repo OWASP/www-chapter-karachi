@@ -37,6 +37,15 @@ One could follow with our meetups here.
 <br/>
 <a href="https://www.youtube.com/channel/UCX7NegARhH603ov7fYao48Q" target="_blank" > YouTube </a>
 
+
+### Twitter Feed
+
+<a class="twitter-timeline" data-width="100%" data-height="600" data-theme="light" href="https://twitter.com/OWASPKARACHI?ref_src=twsrc%5Etfw">Tweets by OWASP Karachi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Facebook Feed
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https://www.facebook.com/OWASPKarachi/&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
 ## Join OWASP 
 If you want to join OWASP, have a look at this video.
 
