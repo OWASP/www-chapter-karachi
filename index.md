@@ -38,4 +38,5 @@ One could follow with our meetups here.
 <a href="https://www.youtube.com/channel/UCX7NegARhH603ov7fYao48Q" target="_blank" > YouTube </a>
 
 ## Join OWASP 
-https://www.youtube.com/watch?v=T2tlcZsYtko
+[![Join OWASP network](https://img.youtube.com/vi/T2tlcZsYtko/0.jpg)](https://www.youtube.com/watch?v=T2tlcZsYtko)
+
