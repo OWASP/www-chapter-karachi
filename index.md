@@ -36,12 +36,3 @@ One could follow with our meetups here.
 <a href="https://t.me/OWASPKarachi" target="_blank" >Telegram</a>
 <br/>
 <a href="https://www.youtube.com/channel/UCX7NegARhH603ov7fYao48Q" target="_blank" > YouTube </a>
-
-
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
