@@ -1,7 +1,7 @@
 ---
 title: Archive
 tab: true
-order: 1
+order: 2
 ---
 
 ## Archives / List of Past Events
