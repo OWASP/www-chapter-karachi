@@ -15,5 +15,5 @@
 ### Speaker Information
 * [Call for Speakers for OWASP Karachi](https://sessionize.com/owasp-karachi-call-for-speaker/)
 * [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
-<a href="https://sessionize.com/"><img src="https://sessionize.com/landing/images/brand/banner/sessionize-banner-medium.png" alt="Sessionize.com — The smart way to manage Call for Papers, Speakers and Agenda for your conference." width="220" height="80"></a>
+<a href="https://sessionize.com/"><img src="sessionize-banner-medium.png" alt="Sessionize.com — The smart way to manage Call for Papers, Speakers and Agenda for your conference." width="220" height="80"></a>
                                 
