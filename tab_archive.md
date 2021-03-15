@@ -2,7 +2,7 @@
 title: Archive - OWASP Karachi
 tab: true
 order: 2
-tags: Karachi Pakistan
+tags: KHI
 region: Asia
 meetup-group: OWASP-Karachi-Chapter
 country: Pakistan
