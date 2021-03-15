@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Karachi
-tags: Karachi Pakistan
+tags: KHI
 region: Asia
 meetup-group: OWASP-Karachi-Chapter
 country: Pakistan
