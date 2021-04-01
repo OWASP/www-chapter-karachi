@@ -17,5 +17,5 @@ All meetups would be listed on [OWASP Karachi Meetup page](https://www.meetup.co
 
 | # | Date | Meetup Details | Recordiing link |  
 | - | ----- | -----------| ---------------|  
-| 1 | Saturday, February 27, 2021 | [Mobile App. Sec. A Pen tester's Perspective](https://www.meetup.com/OWASP-Karachi-Chapter/events/276516990/) | Https://youtu.be/McyQtNQaCk4 |  
-| 2 | Sunday, March 28, 2021 | [Security in Payment Application](https://www.meetup.com/OWASP-Karachi-Chapter/events/277131011/) | https://youtu.be/QiXrgsWYNjw |
+| 1 | Saturday, February 27, 2021 | [Mobile App. Sec. A Pen tester's Perspective](https://www.meetup.com/OWASP-Karachi-Chapter/events/276516990/) | [https://youtu.be/McyQtNQaCk4](https://youtu.be/McyQtNQaCk4) |  
+| 2 | Sunday, March 28, 2021 | [Security in Payment Application](https://www.meetup.com/OWASP-Karachi-Chapter/events/277131011/) | [https://youtu.be/QiXrgsWYNjw](https://youtu.be/QiXrgsWYNjw) |
