@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Karachi Chapter
-tags: OWASP Karachi Information Security InfoSec AppSec Application Security
+tags: Karachi
 level: 2
 altfooter: true
 meetup-group: OWASP-Karachi-Chapter
