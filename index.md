@@ -9,7 +9,8 @@ country: Pakistan
 postal-code: 
 
 ---
-
+- title: OWASP Karachi Chapter
+- tags: OWASPKarachi OWASP Karachi InformationSecurity InfoSec AppSec Application Security
 
 ## Welcome to OWASP Karachi Chapter 
 Hello Karachi !!!.
@@ -29,8 +30,8 @@ Tweets by OWASP Karachi <script async src="https://platform.twitter.com/widgets.
 # Facebook Feed
 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FOWASPKarachi%2F&tabs=timeline%2C%20events%2C%20messages&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+
 ## Join OWASP 
 If you want to join OWASP, have a look at this video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T2tlcZsYtko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
