@@ -10,6 +10,8 @@
 * [Become a Member](https://www.owasp.org/index.php/Membership)
 * [Local Chapter Support](https://owasp.org/donate)
 * [Code of Conduct](https://owasp.org/www-policy/operational/conferences-events.html)
+* [Chapter Policy and Procedures](https://owasp.org/www-policy/)
+* [Chapter Policy](https://owasp.org/www-policy/operational/chapters)
 * Mailing List ... Coming Soon.
  
 ### Speaker Information
