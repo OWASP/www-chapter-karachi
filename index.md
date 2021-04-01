@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Karachi Chapter
 tags: Karachi
 level: 2
+order: 1
 altfooter: true
 meetup-group: OWASP-Karachi-Chapter
 country: Pakistan
