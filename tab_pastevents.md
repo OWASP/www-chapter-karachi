@@ -1,14 +1,11 @@
 ---
-title: Archives
-displaytext: Archives
-layout:  null
+
+title: PastEvents
+displaytext: Past Events
+layout: null
 tab: true
+tags: Karachi
 order: 2
-tags: example-tag
-region: Asia
-meetup-group: OWASP-Karachi-Chapter
-country: Pakistan
-postal-code: 
 
 ---
 
