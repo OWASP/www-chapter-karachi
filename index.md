@@ -3,11 +3,11 @@
 layout: col-sidebar
 title: OWASP Karachi Chapter
 tags: OWASP Karachi Information Security InfoSec AppSec Application Security
-region: Asia
-level: 4
+level: 2
 altfooter: true
 meetup-group: OWASP-Karachi-Chapter
 country: Pakistan
+region: Asia
 
 ---
 
