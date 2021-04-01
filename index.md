@@ -1,16 +1,13 @@
 ---
-
 layout: col-sidebar
 title: OWASP Karachi
-tags: Karachi Pakistan
 region: Asia
 meetup-group: OWASP-Karachi-Chapter
 country: Pakistan
 postal-code: 
-
 ---
+
 - title: OWASP Karachi Chapter
-- tags: OWASPKarachi OWASP Karachi InformationSecurity InfoSec AppSec Application Security
 
 ## Welcome to OWASP Karachi Chapter 
 Hello Karachi !!!.
