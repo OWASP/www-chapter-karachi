@@ -1,12 +1,15 @@
 ---
-title: Archive - OWASP Karachi
+title: Archives
+displaytext: Archives
+layout:  null
 tab: true
 order: 2
-tags: Karachi Pakistan
+tags: example-tag
 region: Asia
 meetup-group: OWASP-Karachi-Chapter
 country: Pakistan
 postal-code: 
+
 ---
 
 ## Past Events
