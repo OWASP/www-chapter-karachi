@@ -15,14 +15,9 @@
 * Mailing List ... Coming Soon.
  
 ### Speaker Information
-* [Call for Speakers for OWASP Karachi](https://sessionize.com/owasp-karachi-call-for-speakers/)
 * [Call for Speakers for OWASP Karachi](https://forms.gle/CqbNwZBUHwF2o9B36)
 * [Template to copy for Speakers](https://docs.google.com/presentation/d/10vDsqTxGRoTnsJ-gWfQiSkGvz1KEB9wDknlrO6_Q9Tk/copy)
 * [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
-* <a href="https://sessionize.com/"><img src="sessionize-banner-medium.png" alt="Sessionize.com — The smart way to manage Call for Papers, Speakers and Agenda for your conference." width="220" height="80"></a>
 
 ### Twitter Feed
 <a class="twitter-timeline" data-width="100%" data-height="600" data-theme="light" href="https://twitter.com/OWASPKARACHI?ref_src=twsrc%5Etfw">Tweets by OWASP Karachi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Facebook Feed
-<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FOWASPKarachi%2F&tabs=timeline%2C%20events%2C%20messages&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
