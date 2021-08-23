@@ -13,7 +13,10 @@ order: 3
 
 Submit the call for Speakers and we will get back to you. 
 Submit your call for speakers @ [Sessionize, https://sessionize.com/owasp-karachi-call-for-speakers/](https://sessionize.com/owasp-karachi-call-for-speakers/). 
+
+<!-- 
 <iframe src="https://sessionize.com/owasp-karachi-call-for-speakers/" width="640" height="2741" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+-->
 
 Some guidelines 
 
