@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Karachi Chapter
+title: OWASP Karachi
 tags: Karachi
 level: 2
 order: 1
