@@ -1,0 +1,25 @@
+leaders:
+  - name: Kashif Hassan
+    email: kashif.hassan@owasp.org
+    github: kashhassan
+  - name: Salman Khwaja
+    email: Salman.Khwaja@owasp.org
+    github: salmankhwaja
+location:
+  country: Pakistan
+  country_code: PK
+  region: Sindh
+  city: Karachi
+  latitude: 24.8546842
+  longitude: 67.0207055
+meetup_group: OWASP-Karachi-Chapter
+name: OWASP Karachi
+repositories:
+  - name: www-chapter-karachi
+    url: https://github.com/OWASP/www-chapter-karachi
+    description: OWASP Foundation Web Repository
+tags:
+  - Karachi
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-karachi
